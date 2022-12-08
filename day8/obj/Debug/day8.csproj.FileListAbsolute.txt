@@ -1,0 +1,6 @@
+D:\code\AoC\day8\bin\Debug\day8.exe
+D:\code\AoC\day8\bin\Debug\day8.pdb
+D:\code\AoC\day8\obj\Debug\day8.csproj.AssemblyReference.cache
+D:\code\AoC\day8\obj\Debug\day8.csproj.CoreCompileInputs.cache
+D:\code\AoC\day8\obj\Debug\day8.exe
+D:\code\AoC\day8\obj\Debug\day8.pdb
