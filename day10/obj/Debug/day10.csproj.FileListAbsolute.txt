@@ -1,0 +1,6 @@
+D:\code\aoc-2022\day10\bin\Debug\day10.exe
+D:\code\aoc-2022\day10\bin\Debug\day10.pdb
+D:\code\aoc-2022\day10\obj\Debug\day10.csproj.AssemblyReference.cache
+D:\code\aoc-2022\day10\obj\Debug\day10.csproj.CoreCompileInputs.cache
+D:\code\aoc-2022\day10\obj\Debug\day10.exe
+D:\code\aoc-2022\day10\obj\Debug\day10.pdb
