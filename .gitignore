@@ -1,2 +1,7 @@
 
 .idea/
+
+*.cache
+
+*/bin/*
+*/obj/*
